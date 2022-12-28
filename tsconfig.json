@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "es2020",
+        "module": "CommonJS",
+        "lib": ["es2017", "es7", "es6", "ESNext"],
+        "outDir": "dist",
+        "strict": true,
+        "sourceMap": true,
+        "declaration": false,
+        "esModuleInterop": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "allowSyntheticDefaultImports": true,
+        "skipLibCheck": true
+    }
+}
